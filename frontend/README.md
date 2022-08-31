@@ -1,4 +1,4 @@
-# DSMovie - Projeto para Visualização e Avaliação de Filmes - Em Desenvolvimento
+# DSMovie - Projeto para Visualização e Avaliação de Filmes
 O DsMovie é uma aplicação para visualização de filmes e suas avaliações
 
 ## Screens
